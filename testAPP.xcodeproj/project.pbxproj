@@ -15,6 +15,8 @@
 		56106EB92926AD6700B0EBEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56106EB72926AD6700B0EBEB /* LaunchScreen.storyboard */; };
 		56106EC42926AD6800B0EBEB /* testAPPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56106EC32926AD6800B0EBEB /* testAPPTests.swift */; };
 		56106ECF2926AD6800B0EBEB /* testAPPUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56106ECE2926AD6800B0EBEB /* testAPPUITests.swift */; };
+		56106EE02926AEB300B0EBEB /* SignUpFormModelValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56106EDF2926AEB300B0EBEB /* SignUpFormModelValidator.swift */; };
+		56106EE52926B87F00B0EBEB /* SignupConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56106EE42926B87F00B0EBEB /* SignupConstants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		56106ECA2926AD6800B0EBEB /* testAPPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testAPPUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56106ECE2926AD6800B0EBEB /* testAPPUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testAPPUITests.swift; sourceTree = "<group>"; };
 		56106ED02926AD6800B0EBEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56106EDF2926AEB300B0EBEB /* SignUpFormModelValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpFormModelValidator.swift; sourceTree = "<group>"; };
+		56106EE42926B87F00B0EBEB /* SignupConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupConstants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				56106EB52926AD6700B0EBEB /* Assets.xcassets */,
 				56106EB72926AD6700B0EBEB /* LaunchScreen.storyboard */,
 				56106EBA2926AD6700B0EBEB /* Info.plist */,
+				56106EDF2926AEB300B0EBEB /* SignUpFormModelValidator.swift */,
+				56106EE42926B87F00B0EBEB /* SignupConstants.swift */,
 			);
 			path = testAPP;
 			sourceTree = "<group>";
@@ -260,6 +266,8 @@
 			files = (
 				56106EB12926AD5C00B0EBEB /* ViewController.swift in Sources */,
 				56106EAD2926AD5C00B0EBEB /* AppDelegate.swift in Sources */,
+				56106EE02926AEB300B0EBEB /* SignUpFormModelValidator.swift in Sources */,
+				56106EE52926B87F00B0EBEB /* SignupConstants.swift in Sources */,
 				56106EAF2926AD5C00B0EBEB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
