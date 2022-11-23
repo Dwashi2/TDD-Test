@@ -31,31 +31,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
  
-      Create a function that takes a string as an argument and converts
-      the first character of each word to uppercase. Return the newly formatted string.
-      
-      Examples:
-      makeTitle("This is a title") ➞ "This Is A Title"
-      makeTitle("capitalize every word") ➞ "Capitalize Every Word"
-      makeTitle("I Like Pizza") ➞ "I Like Pizza"
-      makeTitle("PIZZA PIZZA PIZZA") ➞ "PIZZA PIZZA PIZZA"
-      
-      Notes:
-      You can expect a valid string for each test case.
-      Some words may contain more than one uppercase letter (see example #4).
+    
+      It's a simple project to implement and present unit tests, so we have some functions like:
+      Check first name
+      Check last name
+      Check email
+      Verify password
 
-      Excercise from: https://edabit.com/challenges/swift
+      Excercise from: Apply Test-Driven Development(TDD) process to iOS mobile app development in Swift, and I had the freedom to invent some
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file CapitalizetheFirstLetterofEachWord.xcodeproj 
+Open the file testAPP.xcodeproj and run de project
 
 ### Prerequisites
 
 * Xcode 12.4
-* Use iPhone 12 mini as simulator 
 
 <!-- CONTACT -->
 ## Contact
