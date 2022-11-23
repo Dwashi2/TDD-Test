@@ -38,7 +38,8 @@
       Check email
       Verify password
 
-      Excercise from: Apply Test-Driven Development(TDD) process to iOS mobile app development in Swift, and I had the freedom to invent some
+      Excercise from: Apply Test-Driven Development(TDD) process to iOS mobile app development in Swift,
+      and I had the freedom to invent some
 
 
 <!-- GETTING STARTED -->
